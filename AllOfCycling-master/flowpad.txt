@@ -1,0 +1,53 @@
+index.html
+
+모바일 페이지 지원 (*) - viewport 최적화
+
+각 선택지 구성은 통일화 할것
+1. 메인 홈 (로고, start버튼)
+2. 질문 탭 (질문, y or n)
+3. 결과 탭 (장르소개, 관련 이미지 및 영상 나열)
+*MTB는 좀 더 알아보라는 안내 문구 띄워야
+***html 기능에만 국한되어 하지 말고 아이콘을 만들고 거기에 링킹하는게 더 빨리 제작될듯하다
+
+
+사이드컬러  #6667AB 
+베경컬러  #3739EA
+내용컬러  #52C1AB
+
+
+
+로드를 고려중이다
+가볍게 탈만한게 필요하다
+BMX나 픽시를 사고싶다
+/bmx
+/픽시
+자갈길 같은 험한 노면에 구애받지 않고 달리고 싶다
+/엔듀런스 / TREK Emonda slr9 etap
+평지에서 속도내는걸 좋아한다
+/올라운더 / sworks tarmac sl7 etap
+생긴게 어떻든 빠른게 최고다
+/리컴번트,벨로모빌
+직선코스 위주로 탄다
+/TT/ canyon speedmax cf slx
+/에어로/ cervelo s5
+바구니나 접이식 자전거가 필요하다
+끝/미니벨로 & 시티 / Brompton T line / Cello Page
+승차감이 매우 중요하다
+끝/ XC 하드테일 엔트리 / giant atx 810
+끝/하이브리드 / giant escape 3
+MTB를 고려중이다
+MTB를 생각하는 이유가 승차감 때문이다
+흙길도 달리면서 온로드도 타고싶다
+/XC 하드테일 / cannondale scalpel ht hi-mod 1
+예산이 40이상이다
+/XC 하드테일 엔트리 / giant atx 810
+도로 주행 속도도 중요하다
+/그래블 / cannondale topstone carbon lefty1 
+/CX / canyon inflite cf slx9 team
+파크에서 다운힐만 탈 거다
+/엔듀로, 다운힐 / santacruz megatower / scott gambler 900 tuned / 
+이틉을 고민중이다
+/이틉 / specialized sworks turbo kenevo sl
+잘 다져진 임도를 탈거다
+/XC 하드테일 cannondale scalpel ht hi-mod 1
+/XC 하드테일 풀샥 / santacruz blur xc

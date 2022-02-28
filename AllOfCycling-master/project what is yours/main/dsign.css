@@ -1,0 +1,39 @@
+/* viewport 이미지 최적화 태그, 배치문제로 제거 */
+#image {
+  width:100%;
+  height:auto;
+}
+
+body {
+  margin : 0;
+	padding : 0;
+  background-image: url(img/backimage.png);
+  width:auto;
+  height:100%;
+  /*
+  background-color:  #6667AB베리페리 색상*/
+}
+
+.image {
+  display:block;
+  margin-top:20px;
+  margin-right:auto;
+  margin-bottom:20px;
+  margin-left:auto;
+
+}
+
+/*  사용변수 블록.이미지화로 인한 생략
+.titled{
+  color:#005666;
+  text-align:center;
+  font-style: oblique;
+  font-size:40px;
+  background-color:#6667AB;
+
+  border-top:3px solid; border-color:#6667AB; padding:10px;
+  border-bottom:3px solid; border-color:#6667AB; padding:10px;
+  border-left:3px solid; border-color:#6667AB; padding:10px;
+  border-right:3px solid; border-color:#6667AB; padding:10px;
+}
+*/
